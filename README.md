@@ -39,7 +39,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 
 ## Announcements & News
 
-- [Aleo Discord](https://aleo.org/discord) - The official Aleo Discord channel
+- [Aleo Discord](https://discord.com/invite/aleo) - The official Aleo Discord channel
 - [Aleo Twitter](https://twitter.com/AleoHQ) - The official Aleo Twitter account
 
 ## Presentations & Talks
