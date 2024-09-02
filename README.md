@@ -40,7 +40,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 ## Announcements & News
 
 - [Aleo Discord](https://aleo.org/discord) - The official Aleo Discord channel
-- [Aleo Twitter](https://twitter.com/AleoHQ) - The official Aleo Twitter account
+- [Aleo X (Twitter)](https://x.com/AleoHQ) - The official Aleo X (Twitter) account
 
 ## Presentations & Talks
 
