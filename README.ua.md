@@ -186,3 +186,4 @@
 - [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - Неофіційний SDK для облікового запису Aleo
 - [Leo Wallet](https://leo.app/) - Простий і приватний гаманець для Aleo. Зараз відкрито ранній доступ до списку очікування.
 - [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - SDK для інтеграції з гаманцем Leo
+- [FoxWallet](https://foxwallet.com/) - Удобный кошелек для Aleo

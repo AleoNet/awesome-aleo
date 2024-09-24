@@ -227,3 +227,4 @@ The following is a curated list of applications powered by Aleo.
 - [Avail](https://avail.global) - A mobile wallet on Aleo focused on enabling real world use of private self custody.
 - [Coffer](https://github.com/coffer-aleo/coffer-wallet) - Multisig Smart Contract Wallet on Aleo
 - [MetaMask Snap (Official)](https://snaps.metamask.io/snap/npm/chainsafe/aleo-snap/) - Official MetaMask Snap for Aleo
+- [FoxWallet](https://foxwallet.com/) - A user-friendly wallet for Aleo
